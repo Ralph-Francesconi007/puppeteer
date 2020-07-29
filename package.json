@@ -3,6 +3,7 @@
   "version": "5.2.1-post",
   "description": "A high-level API to control headless Chrome over the DevTools Protocol",
   "main": "./cjs-entry.js",
+  "typings": "./lib/cjs/puppeteer/index.d.ts",
   "repository": "github:puppeteer/puppeteer",
   "engines": {
     "node": ">=10.18.1"
